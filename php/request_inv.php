@@ -1,0 +1,6 @@
+<?
+
+echo 'Yes. All OK.';
+
+
+
