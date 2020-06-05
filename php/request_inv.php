@@ -1,6 +1,3 @@
 <?
 
-echo 'Everythins is OK. App is working';
-
-
-
+echo 'Everything is OK. App is working';
